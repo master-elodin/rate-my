@@ -28,6 +28,12 @@
   padding-left: 10px;
   width: 400px;
 }
+.submit__row select {
+  height: 24px;
+  line-height: 24px;
+  margin-top: 8px;
+  width: 300px;
+}
 
 .submit__row input[type=radio] {
   margin-right: 20px;
