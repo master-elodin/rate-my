@@ -9,7 +9,7 @@ function App() {
     <div className="app">
       <Router>
         <header className="app__header">
-          Rate My Show?
+          Rate My Show
         </header>
         <div className={'app__sidebar'}>
           <ul>

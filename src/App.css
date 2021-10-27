@@ -17,7 +17,8 @@
 }
 
 .app__sidebar {
-  background-color: #efefef;;
+  background-color: #efefef;
+  height: 100%;
   width: 180px;
 }
 
@@ -26,6 +27,8 @@
 }
 
 .app__body {
+  height: calc(100% - 50px);
+  overflow: auto;
   padding: 20px;
   width: calc(100% - 80px);
 }

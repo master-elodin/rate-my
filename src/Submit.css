@@ -1,0 +1,45 @@
+.submit {
+}
+
+.submit__form {
+}
+
+.submit__row {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.submit__row h4 {
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin: 10px 0;
+}
+
+.submit__row input[type=text] {
+  line-height: 24px;
+  padding-left: 10px;
+  width: 200px;
+}
+
+.submit__row textarea {
+  line-height: 24px;
+  margin-top: 8px;
+  padding-left: 10px;
+  width: 400px;
+}
+
+.submit__row input[type=radio] {
+  margin-right: 20px;
+}
+
+.submit__footer {
+  height: 50px;
+  margin-top: 30px;
+}
+
+.submit__footer button {
+  cursor: pointer;
+  height: 30px;
+  width: 200px;
+}
